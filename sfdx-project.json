@@ -1,0 +1,23 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "Liverpool",
+            "versionName": "Liverpool 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "name": "test-two-gp",
+    "namespace": "LIV",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "55.0",
+    "packageAliases": {
+        "Liverpool": "0Ho2w000000Cb1MCAS",
+        "Liverpool@0.1.0-1": "04t2w00000928vTAAQ",
+        "Liverpool@0.1.0-2": "04t2w00000928viAAA",
+        "Liverpool@0.1.0-3": "04t2w00000929KyAAI",
+        "Liverpool@0.1.0-4": "04t2w00000929L3AAI",
+        "Liverpool@0.1.0-5": "04t2w00000929L8AAI"
+    }
+}
