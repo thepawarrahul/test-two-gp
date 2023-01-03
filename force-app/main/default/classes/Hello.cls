@@ -5,5 +5,6 @@
 public with sharing class Hello {
     public Hello() {
         System.debug('Hello world');
+        System.debug('This is debug from default constructor');
     }
 }
