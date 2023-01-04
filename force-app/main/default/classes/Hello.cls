@@ -6,5 +6,6 @@ public with sharing class Hello {
     public Hello() {
         System.debug('Hello world');
         System.debug('This is debug from default constructor');
+        System.debug('This is debug from default to test git tags.');
     }
 }
